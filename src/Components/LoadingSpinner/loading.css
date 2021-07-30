@@ -1,0 +1,13 @@
+#loading-animation {
+  display: relative;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+#loading-text {
+  position: absolute;
+  font-size: 50px;
+  bottom: 100px;
+  margin: auto;
+}
